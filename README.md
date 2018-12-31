@@ -1,8 +1,8 @@
-# How to set Xamarin TreeView works with right-to-left?
+# Right to left example of Xamarin.Forms, Xamarin.Android and Xamarin.iOS TreeView?
 
 ## About the samples
 
-This example will describes how Xamarin(Forms,Android and ios) TreeView works with right-to-left when device language or device layout direction changed.  
+This example describes how SfTreeView works with right-to-left when device language or device layout direction changed.  
 
 ## Requirements to run the demo
 Visual Studio 2017 or Visual Studio for Mac.

@@ -77,6 +77,8 @@
     <BundleResource Include="Images\treeview_zip.png" />
     <Compile Include="Model\FileManager.cs" />
     <Compile Include="ViewModel\FileManagerViewModel.cs" />
+    <BundleResource Include="Images\treeview_img0.png" />
+    <BundleResource Include="Images\treeview_img1.png" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Content Include="Entitlements.plist" />
@@ -84,14 +86,14 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Syncfusion.GridCommon.Portable, Version=16.4451.0.44, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Syncfusion.Xamarin.GridCommon.16.4.0.44\lib\Xamarin.iOS10\Syncfusion.GridCommon.Portable.dll</HintPath>
+    <Reference Include="Syncfusion.GridCommon.Portable, Version=18.4451.0.46, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Xamarin.GridCommon.18.4.0.46\lib\Xamarin.iOS10\Syncfusion.GridCommon.Portable.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.Licensing, Version=16.4.0.44, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Syncfusion.Licensing.16.4.0.44\lib\Xamarin.iOS10\Syncfusion.Licensing.dll</HintPath>
+    <Reference Include="Syncfusion.Licensing, Version=18.4.0.46, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Licensing.18.4.0.46\lib\Xamarin.iOS10\Syncfusion.Licensing.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.SfTreeView.iOS, Version=16.4451.0.44, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Syncfusion.Xamarin.SfTreeView.IOS.16.4.0.44\lib\Xamarin.iOS10\Syncfusion.SfTreeView.iOS.dll</HintPath>
+    <Reference Include="Syncfusion.SfTreeView.iOS, Version=18.4451.0.46, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Xamarin.SfTreeView.IOS.18.4.0.46\lib\Xamarin.iOS10\Syncfusion.SfTreeView.iOS.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
